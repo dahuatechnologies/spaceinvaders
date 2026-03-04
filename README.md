@@ -1,6 +1,10 @@
-# space invaders
+## An simple academic Expert System Game with interactive results preview.
 
-┌──────────────────────┐      ┌──────────────────┐     ┌─────────────────┐
-│      Game Engine     │────▶│  Neuro-Fuzzy AI  │────▶│  EVO AI CORE    │
-│ (space invader game) │◀────│    Controller    │◀────│  (Key API)      │
-└──────────────────────┘      └──────────────────┘     └─────────────────┘
+---
+
+### expert system space invaders connecting AI CORE - Initial logic application
+
+---
+
+* Game Engine           ────▶  EVO AI CORE
+* (space invader game)  ◀────   (Key API)
